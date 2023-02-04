@@ -1,0 +1,12 @@
+let num1 = 40;
+let num2 = 30;
+let sum = num1 + num2;
+console.log(sum);
+let subtraction = num1 - num2;
+console.log(subtraction);
+let multiplication = num1 * num2;
+console.log(multiplication);
+let division = num1 / num2;
+console.log(division);
+let modulus = num1 % num2;
+console.log(modulus);
